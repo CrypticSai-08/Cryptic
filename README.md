@@ -1,4 +1,4 @@
-# 128-bit AES Encryption and Decryption
+# Cryptic :128-bit AES Encryption and Decryption
 
 ## Synopsis
 This project includes encryption and decryption programs written in C++ to help you understand the 128-bit AES (Advanced Encryption Standard) cipher.
